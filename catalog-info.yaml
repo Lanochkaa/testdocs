@@ -8,4 +8,5 @@ metadata:
 spec:
   type: documentation
   lifecycle: experimental
-  owner: user:Lanochkaa
+  owner: group:default/lanochkaa
+
