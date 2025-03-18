@@ -1,0 +1,8 @@
+site_name: Test Documentation
+site_description: A simple test documentation for Backstage TechDocs
+nav:
+  - Home: index.md
+  - About: about.md
+plugins:
+  - techdocs-core
+
